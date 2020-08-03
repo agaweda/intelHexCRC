@@ -14,7 +14,10 @@
  * You should have received a copy of the GNU General Public License
  * along with this program. If not, see <http://www.gnu.org/licenses/>.
  *
- * V1.5
+ * V1.5 Initial commit to GitHub
+ * V1.6
+ * -
+ * 
  * ToDo:
  * -Add doxygen documentation
  * -Add support for custom polynomial, custom fill value and specific CRC write address (parsing
@@ -28,7 +31,8 @@
 #include <string>
 #include <fstream>
 #include <iostream>
-#include <string.h>
+#include <iso646.h>
+#include <inttypes.h>
 
 using namespace std;
 
